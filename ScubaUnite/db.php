@@ -5,9 +5,9 @@
  *       med PDO (PHP Data Object)
  **********************************************/
 $db_servname = "localhost";
-$db_database = "sep2101_scubaunite"; 
-$db_username = "sep2101_ScubaUnite";
-$db_password = "{1x#RlQwL[wW";
+$db_database = ""; 
+$db_username = "";
+$db_password = "";
 
 
 try {
